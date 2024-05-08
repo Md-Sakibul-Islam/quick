@@ -113,7 +113,7 @@ body{
     width: 100%;
 }
 .project-card-item{
-    padding: 0 20px;
+    padding: 0 20px 45px 20px;
 }
 .project-card-item h3{
     color: #0F2656;
@@ -134,3 +134,22 @@ body{
 }
 
 /* project section end  */
+/* footer section Start  */
+.footer-area{
+    font-family: sans-serif;
+    background-color: #008AFF;
+}
+.footer-text{
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-text p{
+    color: rgb(228, 223, 223);
+}
+.footer-text span{
+    font-weight: 800;
+    color: #FFF7E8;
+}
+/* footer section End  */
