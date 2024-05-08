@@ -69,3 +69,68 @@ body{
 }
 
 /* hero section End  */
+
+/* project section Start  */
+.project{
+    padding-bottom: 70px;
+}
+.project-wrapper{
+    display: flex;
+    gap: 20px;
+    padding-bottom: 80px;
+
+}
+.project-counter{
+    width: 50%;
+    text-align: end;
+    margin: 0 auto;
+}
+.project-counter h2{
+    color: #F15767;
+    font-size: 40px;
+}
+.project-counter p{
+    line-height: 23px;
+    padding-left: 250px;
+}
+.project-text{
+    width: 50%;
+    text-align: start;
+
+}
+.project-text h2{
+    color: #0F2656;
+    font-size: 45px;
+    width: 60%;
+}
+
+.project-card-wrapper{
+    display: flex;
+    gap: 26px;
+    font-family: sans-serif;
+}
+.card-item-img img{
+    width: 100%;
+}
+.project-card-item{
+    padding: 0 20px;
+}
+.project-card-item h3{
+    color: #0F2656;
+    margin-bottom: 10px;
+}
+.project-card-item p{
+    color: #0F2656;
+    line-height: 24px;
+}
+.card-one{
+    background-color: #FEEBEF;
+}
+.card-two{
+    background-color: #EBF9F4;
+}
+.card-three{
+    background-color: #FFF7E8;
+}
+
+/* project section end  */
