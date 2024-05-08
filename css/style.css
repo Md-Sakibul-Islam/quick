@@ -1,0 +1,44 @@
+/* common CSS Start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ol,ul{
+    list-style-type: none;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+/* common CSS End  */
+
+/* header css Start  */
+.header-area{
+    padding: 10px 0;
+    border-bottom: 2px solid #EFF1F4;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li a{
+    margin-right: 20px;
+}
+.menu ul li:last-child a{
+    color: #3B5780;
+    margin-right: 0;
+}
+.menu ul li a:hover{}
+/* header css End  */
