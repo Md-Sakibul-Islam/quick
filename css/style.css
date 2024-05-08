@@ -34,13 +34,14 @@ body{
     display: flex;
 }
 .menu ul li a{
+    color:#25678B ;
     margin-right: 20px;
 }
 .menu ul li:last-child a{
     color: #3B5780;
     margin-right: 0;
 }
-.menu ul li a:hover{}
+
 /* header css End  */
 
 /* hero section Start  */
