@@ -42,3 +42,30 @@ body{
 }
 .menu ul li a:hover{}
 /* header css End  */
+
+/* hero section Start  */
+.hero{
+    padding: 70px 0 100px 0;
+    
+}
+.hero-content{
+    text-align: center;
+}
+.hero-content h1{
+    width: 53%;
+    color: #0F2656;
+    margin: 0 auto;
+    font-size: 45px;
+}
+.hero-content span{
+    color: #008AFF;
+   
+}
+.hero-content p{
+    width: 55%;
+    padding-top: 10px;
+    line-height: 30px;
+    margin: 0 auto;
+}
+
+/* hero section End  */
